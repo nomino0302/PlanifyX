@@ -1,6 +1,6 @@
 # PlanifyX
 
-PlanifyX est une application de gestion commerciale qui réunit les activités quotidiennes d'un commerce dans une interface web.
+PlanifyX est une application progiciel ERP (Enterprise Resource Planning) qui réunit les activités quotidiennes d'un commerce dans une interface web.
 
 ## Fonctionnalités
 
@@ -16,7 +16,7 @@ PlanifyX est une application de gestion commerciale qui réunit les activités q
 - **Backend** : Python, Django 6, Django REST Framework, authentification JWT et documentation OpenAPI avec drf-spectacular. Le projet utilise aussi APScheduler et ReportLab.
 - **Base de données** : PostgreSQL.
 
-Le code est réparti entre `frontend/` et `backend/`. Les scripts SQL se trouvent dans `backend/sql/`.
+Le code est réparti entre `frontend/` et `backend/`.
 
 ## Démarrage local
 
