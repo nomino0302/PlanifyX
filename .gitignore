@@ -1,0 +1,31 @@
+# Environnements locaux et secrets
+.env
+.env.*
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.sqlite3
+backend/staticfiles/
+backend/media/
+backend/journal_de_caisse.txt
+
+# JavaScript et fichiers générés
+node_modules/
+dist/
+dist-ssr/
+dev-dist/
+*.local
+*.log
+
+# Éditeurs et système
+.idea/
+.vscode/
+.DS_Store
